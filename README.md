@@ -29,7 +29,7 @@ Since the product is not satisfactory, I tried to find a good solution on the ma
 
 ## 😎 What can this help with?
 
-The development of AI is still in its early stages, and many technologies are not yet refined. There is still a long way to go to achieve our goals. However, this does not mean that we cannot take the first step towards making AI more approachable:
+The development of AI is still in its early stages, and many technologies are not yet refined. There is still a long way to go to achieve our goals. However, this does not mean that we cannot take the first step towards making AI more **approachable**:
 
 1. Improve the efficiency of using prompts:
     1. You can call up pre-made prompts using familiar interaction operations and customize prompt parameters according to their needs.
