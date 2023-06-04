@@ -1,9 +1,12 @@
 <div align="center">
     <img src="/img/PoleStar.png" width="160px" />
     <h1>👋 Welcome to PoleStar Chat</h1>
+    <h4>
+        <a href="https://github.com/thinkingjimmy/PoleStarChat/blob/main/README-CN.md">中文版本</a>
+        <span> | </span>
+        <a href="https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Wiki-c9084b5b26d7416bb3972977e0599fd8?pvs=4">PoleStar Chat Public Wiki</a>
+    </h4>
 </div>
-
-中文版本：
 
 ## 🤔 Why
 
