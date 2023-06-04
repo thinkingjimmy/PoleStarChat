@@ -19,7 +19,7 @@
 
 Ever since I started using ChatGPT, I have found it to be a useful tool. However, during the course of my usage, I have come to realize that although it boasts of powerful capabilities, unlocking its full potential can be challenging and comes with its own set of difficulties:
 
-- Firstly, to improve the accuracy of AI's responses, you need to learn many skills. I spent over ten hours learning about Prompt Engineering and even wrote a nearly 100,000-word tutorial on Prompt Engineering for this purpose. After using prompt skills, the accuracy of AI's responses did indeed improve significantly.
+- Firstly, to improve the accuracy of AI's responses, you need to learn many skills. I spent over ten hours learning about Prompt Engineering and even wrote a nearly 100,000 words tutorial on Prompt Engineering for this purpose. After using prompt skills, the accuracy of AI's responses did indeed improve significantly.
 - However, I encountered the second problem, which is that inputting prompt information is very troublesome. It requires frequent copying and pasting, which is highly inefficient.
 - Lastly, payment problems may arise, just like with my experience. Payment can be difficult and easy to be banned. Not to mention, the subscription fees each month are still too expensive for many people.
 
