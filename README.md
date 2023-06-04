@@ -1,7 +1,6 @@
-# PoleStar Chat
-
 <div align="center">
-<img src="/img/PoleStar.png" width="180px" />
+    <img src="/img/PoleStar.png" width="180px" />
+    <h1>👋 Welcome to PoleStar Chat</h1>
 </div>
 
 中文版本：
