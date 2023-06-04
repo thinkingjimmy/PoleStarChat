@@ -43,7 +43,7 @@ To better integrate AI into your life, work, and learning, we will support the a
 
 ## 🚀 Features
 
-You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://www.notion.so/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=21) , and we welcome feedback in our [Discord server](https://discord.gg/esyCEGhmq9).
+You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=4) , and we welcome feedback in our [Discord server](https://discord.gg/esyCEGhmq9).
 
 **IM App Design:**
 To make the product more approachable, the product's design adopts IM interaction. You can create a chat room (Channel) and talk directly to the AI assistant through the input box like using other IM products. Also, to solve the problem of difficulty in calling prompt templates, you can quickly call prompts through the AT method, like this:
