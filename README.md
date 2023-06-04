@@ -1,5 +1,9 @@
 # PoleStar Chat
 
+<div align="center">
+<img src="/img/PoleStar.png" width="180px" />
+</div>
+
 中文版本：
 
 ## 🤔 Why
@@ -42,7 +46,9 @@ You can check the development progress of the following features through [PoleSt
 **IM App Design:**
 To make the product more approachable, the product's design adopts IM interaction. You can create a chat room (Channel) and talk directly to the AI assistant through the input box like using other IM products. Also, to solve the problem of difficulty in calling prompt templates, you can quickly call prompts through the AT method, like this:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29aaa9d3-7f16-4f9d-a396-510ef6113081/Untitled.png)
+<div align="center">
+<img src="/img/IMDESIGN.png" width="180px" />
+</div>
 
 **Support for multiple models:**
 Currently available tools have two main issues: difficulty in calling prompts and support for only single models or LLM models. To lower the threshold for model usage, we will support the use of multiple models in the future, such as text-to-image models or open-source models in vertical fields. In the next version, you will be able to use AT Text2Image Bot in the IM to generate images from text using AI.
