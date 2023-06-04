@@ -1,6 +1,9 @@
 <div align="center">
     <img src="/img/PoleStar.png" width="160px" />
     <h1>✨ PoleStar Chat</h1>
+    <p>
+        <strong>An assistant that enhances human intelligence</strong>
+    </p>
     <h4>
         <a href="https://github.com/thinkingjimmy/PoleStarChat/releases/">Download</a>
         <span> · </span>
@@ -13,14 +16,6 @@
 </div>
 
 ## 🤔 What is this?
-
-Many people have similar views on AI to [JARVIS](https://en.wikipedia.org/wiki/J.A.R.V.I.S.), the personal assistant invented by Iron Man. They hope that AI can be a "personal super intelligent assistant" that can replace humans to do many things. 
-
-However, I don't want future AI to be like JARVIS because it feels like a privilege for the rich and is both aloof and distant. Instead, I hope future AI can be like [Doraemon](https://en.wikipedia.org/wiki/Doraemon). It should be approachable, even for middle-class families like [Nobita Nobi](https://en.wikipedia.org/wiki/Nobita_Nobi), and integrate into your life, work, and learning like a presence that is like a family member, friend, or teacher, not a tool with a high and cold personality. Lastly, unlike so-called intelligent assistants that "replace" humans, it should try its best to "provide" tools/methods and help humans. 
-
-In summary, "an assistant that enhances human intelligence" would match the ideal image of AI in my mind.
-
-However, ideals are abundant, and reality is bony. 
 
 Since the release of ChatGPT, I have been using it. However, in the process of using it, I found that although its abilities are powerful, you will face many difficulties if you want to unleash its full potential:
 
