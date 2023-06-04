@@ -23,7 +23,9 @@ Ever since I started using ChatGPT, I have found it to be a useful tool. However
 - However, I encountered the second problem, which is that inputting prompt information is very troublesome. It requires frequent copying and pasting, which is highly inefficient.
 - Lastly, payment problems may arise, just like with my experience. Payment can be difficult and easy to be banned. Not to mention, the subscription fees each month are still too expensive for many people.
 
-Since the product is not satisfactory, I tried to find a good solution on the market. Unfortunately, I tried various tools, and many of them were great, but none of them met all my needs. Therefore, we decided to develop our own.
+Since the product is not satisfactory, I tried to find a good solution on the market. Unfortunately, I tried various tools, and many of them were great, but none of them met all my needs. 
+
+**Therefore, we decided to develop our own -- PoleStar Chat.**
 
 ## 😎 What can this help with?
 
