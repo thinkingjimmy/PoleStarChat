@@ -12,7 +12,7 @@
     </h4>
 </div>
 
-## 🤔 Why
+## 🤔 What is this?
 
 Many people have similar views on AI to [JARVIS](https://en.wikipedia.org/wiki/J.A.R.V.I.S.), the personal assistant invented by Iron Man. They hope that AI can be a "personal super intelligent assistant" that can replace humans to do many things. 
 
@@ -30,7 +30,7 @@ Since the release of ChatGPT, I have been using it. However, in the process of u
 
 Since the product is not satisfactory, I tried to find a good solution on the market. Unfortunately, I tried various tools, and many of them were great, but none of them met all my needs. Therefore, we decided to develop our own.
 
-## 😎 Differences
+## 😎 What can this help with?
 
 The development of AI is still in its early stages, and many technologies are not yet refined. There is still a long way to go to achieve our goals. However, this does not mean that we cannot take the first step towards making AI more approachable:
 
