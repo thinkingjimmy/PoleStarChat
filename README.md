@@ -1,6 +1,6 @@
 <div align="center">
     <img src="/img/PoleStar.png" width="180px" />
-    <h1>👋 Welcome to PoleStar Chat</h1>
+    <h3>👋 Welcome to PoleStar Chat</h1>
 </div>
 
 中文版本：
@@ -46,7 +46,7 @@ You can check the development progress of the following features through [PoleSt
 To make the product more approachable, the product's design adopts IM interaction. You can create a chat room (Channel) and talk directly to the AI assistant through the input box like using other IM products. Also, to solve the problem of difficulty in calling prompt templates, you can quickly call prompts through the AT method, like this:
 
 <div align="center">
-<img src="/img/IMDESIGN.png" width="180px" />
+<img src="/img/IMDESIGN.png" width="720px" />
 </div>
 
 **Support for multiple models:**
