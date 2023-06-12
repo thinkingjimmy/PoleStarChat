@@ -19,7 +19,7 @@
 
 Ever since I started using ChatGPT, I have found it to be a useful tool. However, during the course of my usage, I have come to realize that although it boasts of powerful capabilities, unlocking its full potential can be challenging and comes with its own set of difficulties:
 
-- Firstly, to improve the accuracy of AI's responses, you need to learn many skills. I spent over ten hours learning about Prompt Engineering and even wrote a nearly 100,000 words tutorial on Prompt Engineering for this purpose. After using prompt skills, the accuracy of AI's responses did indeed improve significantly.
+- Firstly, to improve the accuracy of AI's responses, you need to learn many skills. I spent over ten hours learning about Prompt Engineering. After using prompt skills, the accuracy of AI's responses did indeed improve significantly.
 - However, I encountered the second problem, which is that inputting prompt information is very troublesome. It requires frequent copying and pasting, which is highly inefficient.
 - Lastly, payment problems may arise, just like with my experience. Payment can be difficult and easy to be banned. Not to mention, the subscription fees each month are still too expensive for many people.
 
@@ -32,7 +32,7 @@ Since the product is not satisfactory, I tried to find a good solution on the ma
 The development of AI is still in its early stages, and many technologies are not yet refined. There is still a long way to go to achieve our goals. However, this does not mean that we cannot take the first step towards making AI more **approachable**:
 
 1. Improve the efficiency of using prompts:
-    1. You can call up pre-made prompts using familiar interaction operations and customize prompt parameters according to their needs.
+    1. You can use our preset prompt by typing @.
     2. In the future, we hope to reduce the difficulty of writing prompts.
 2. Lower the threshold for model invocation:
     1. Our application allows you to simultaneously use multiple models, such as GPT-3 and Stable Diffusion.
