@@ -49,6 +49,8 @@ You can check the development progress of the following features through [PoleSt
 **IM App Design:**
 To make the product more approachable, the product's design adopts IM interaction. You can create a chat room (Channel) and talk directly to the AI assistant through the input box like using other IM products. Also, to solve the problem of difficulty in calling prompt templates, you can quickly call prompts through the AT method, like this:
 
+<img width="1153" alt="image" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/d4a05277-6843-46d3-abc7-726f4c56e258">
+
 **Support for multiple models:**
 Currently available tools have two main issues: difficulty in calling prompts and support for only single models or LLM models. To lower the threshold for model usage, we will support the use of multiple models in the future, such as text-to-image models or open-source models in vertical fields. In the next version, you will be able to use AT Text2Image Bot in the IM to generate images from text using AI.
 
