@@ -7,7 +7,7 @@
     <h4>
         <a href="https://github.com/thinkingjimmy/PoleStarChat/releases/">Download</a>
         <span> · </span>
-        <a href="https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Wiki-c9084b5b26d7416bb3972977e0599fd8?pvs=4">PoleStar Chat Public Wiki</a>
+        <a href="https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Wiki-c9084b5b26d7416bb3972977e0599fd8?pvs=4">Public Wiki</a>
         <span> · </span>
         <a href="https://discord.gg/esyCEGhmq9">Discord</a>
         <span> · </span>
@@ -27,15 +27,19 @@ To make the product more approachable, the product's design adopts IM interactio
 **Support for multiple models:**
 Most products support only one model, but we support multiple AI models, such as text-to-image models or open-source models(Plan to support Midjourney and more!):
 
+<img width="1153" alt="image" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/3570dafe-9ebd-41de-a3aa-0d5dea08c5c0">
+
+**Support for API calls and external data sources:**
+In addition to supporting multiple models, we plan to support the ability to call external APIs and custom data sources. This means that in the future you can ask the AI to help you make an appointment in Google Calendar by entering text. Or you can use our tools to build your own knowledge base AI Bot.
+
 **Open source:**
 As the Chinese old saying goes, many hands make light work. We can't get more people to use AI by our efforts alone, so we decided to introduce the power of the open-source community. We expect to open-source our code (excluding server-side code) around July, and everyone can use our product for secondary development.
 
 **Pay-as-you-go mode:**
-The most significant obstacle for users is the price. OpenAI membership costs $20 per month, Midjourney costs $30 per month, but for individual use, it may not be feasible to use them at full capacity, and the $50 monthly fee is still expensive for many people. To solve this problem, we will support paying for Tokens and pay-as-you-go model calls in the future. Simply put, you pay for what you use, reducing usage costs.
+At present, the most impact on the use of AI may be the price. OpenAI membership costs $20 per month, Midjourney costs $30 per month, but for individual use, it may not be feasible to use them at full capacity, and the $50 monthly fee is still expensive for many people. To solve this problem, we will support paying for Tokens and pay-as-you-go model calls in the future. Simply put, you pay for what you use.
 
 
 
-**Support for custom data sources:**
-In addition to supporting multiple models, we also plan to support custom data sources. This means that in the future, you can use our tool to build your own knowledge base AI Bot.
+
 
 
