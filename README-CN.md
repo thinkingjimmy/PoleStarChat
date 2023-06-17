@@ -1,3 +1,18 @@
+<div align="center">
+    <img src="/img/PoleStar.png" width="160px" />
+    <h1>✨ PoleStar Chat</h1>
+    <p>
+        <strong>提高人类智能的助手</strong>
+    </p>
+    <h4>
+        <a href="https://github.com/thinkingjimmy/PoleStarChat/releases/">下载</a>
+        <span> · </span>
+        <a href="https://mcousdyt7h.feishu.cn/wiki/wikcn1bcFiMEwq6ucwowFsERjkb">用户手册</a>
+        <span> · </span>
+        <a href="https://discord.gg/esyCEGhmq9">Discord</a>
+    </h4>
+</div>
+
 # 🤔 缘起
 很多人对 AI 的看法类似钢铁侠发明的贾维斯，希望 AI 像一个「个人超级智能助手」，能替代人类做很多事情。
 
