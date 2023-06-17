@@ -15,34 +15,7 @@
     </h4>
 </div>
 
-## 🤔 What is this?
-
-Ever since I started using ChatGPT, I have found it to be a useful tool. However, during the course of my usage, I have come to realize that although it boasts of powerful capabilities, unlocking its full potential can be challenging and comes with its own set of difficulties:
-
-- Firstly, to improve the accuracy of AI's responses, you need to learn many skills. I spent over ten hours learning about Prompt Engineering. After using prompt skills, the accuracy of AI's responses did indeed improve significantly.
-- However, I encountered the second problem, which is that inputting prompt information is very troublesome. It requires frequent copying and pasting, which is highly inefficient.
-- Lastly, payment problems may arise, just like with my experience. Payment can be difficult and easy to be banned. Not to mention, the subscription fees each month are still too expensive for many people.
-
-Since the product is not satisfactory, I tried to find a good solution on the market. Unfortunately, I tried various tools, and many of them were great, but none of them met all my needs. 
-
-**Therefore, we decided to develop our own -- PoleStar Chat.**
-
-## 😎 What can this help with?
-
-The development of AI is still in its early stages, and many technologies are not yet refined. There is still a long way to go to achieve our goals. However, this does not mean that we cannot take the first step towards making AI more **approachable**:
-
-1. Improve the efficiency of using prompts:
-    1. You can use our preset prompt by typing @.
-    2. In the future, we hope to reduce the difficulty of writing prompts.
-2. Lower the threshold for model invocation:
-    1. Our application allows you to simultaneously use multiple models, such as GPT-3 and Stable Diffusion.
-    2. We support a pay-as-you-go payment model, where you pay for the number of tokens you use, thus reducing usage costs.
-3. Improve AI's response accuracy:
-Another obstacle for using AI is that it may generate nonsensical responses in some areas. To solve this problem, we will support the ability to customize databases in the future. This way, AI can answer based on the contents of a knowledge base, improving the accuracy of its responses.
-4. Broaden the scope of application:
-To better integrate AI into your life, work, and learning, we will support the ability to call external APIs in the future. For example, you could use text input to let AI help you book an appointment on Google Calendar.
-
-## 🚀 Features
+## 🚀 Key Features
 
 You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=4) , and we welcome feedback in our [Discord server](https://discord.gg/esyCEGhmq9).
 
