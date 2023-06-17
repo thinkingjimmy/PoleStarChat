@@ -24,7 +24,7 @@ To make the product more approachable, the product's design adopts IM interactio
 
 <img width="1153" alt="image" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/d4a05277-6843-46d3-abc7-726f4c56e258">
 
-**Support for multiple models:**
+**Support multiple models:**
 Most products support only one model, but we support multiple AI models, such as text-to-image models or open-source models(Plan to support Midjourney and more!):
 
 <img width="1153" alt="image" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/3570dafe-9ebd-41de-a3aa-0d5dea08c5c0">
