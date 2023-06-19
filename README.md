@@ -11,7 +11,7 @@
         <img src="https://dcbadge.vercel.app/api/server/esyCEGhmq9?compact=true&style=flat" />
     </h4>
     <h4>
-        <a href="https://github.com/thinkingjimmy/PoleStarChat/releases/">Download</a>
+        <a href="https://github.com/thinkingjimmy/PoleStarChat/releases/">💻 Download</a>
         <span> · </span>
         <a href="https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Wiki-c9084b5b26d7416bb3972977e0599fd8?pvs=4">Public Wiki</a>
         <span> · </span>
