@@ -26,12 +26,12 @@ You can check the development progress of the following features through [PoleSt
 **IM App Design:**
 To make the product more approachable, the product's design adopts IM interaction. You can create a chat room (Channel) and talk directly to the AI assistant through the input box like using other IM products. Also, to solve the problem of difficulty in calling prompt templates, you can quickly call prompts through the AT method, like this:
 
-<img width="1153" alt="image" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/d4a05277-6843-46d3-abc7-726f4c56e258">
+<img width="1092" alt="CleanShot 2023-06-24 at 16 02 26@2x" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/3064d947-99be-4d3d-b370-a9602d9f5698">
 
 **Support multiple models:**
 Most products support only one model, but we support multiple AI models, such as text-to-image models or open-source models(Plan to support Midjourney and more!):
 
-<img width="1153" alt="image" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/3570dafe-9ebd-41de-a3aa-0d5dea08c5c0">
+<img width="1092" alt="CleanShot 2023-06-24 at 16 01 33@2x" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/cfbd2dfb-3486-4989-8f08-527fc966c61a">
 
 **Support for API calls and external data sources:**
 In addition to supporting multiple models, we plan to support the ability to call external APIs and custom data sources. This means that in the future you can ask the AI to help you make an appointment in Google Calendar by entering text. Or you can use our tools to build your own knowledge base AI Bot.
