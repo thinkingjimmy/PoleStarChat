@@ -6,9 +6,13 @@
     </p>
     <h4>
         <img alt="GitHub release (release name instead of tag name)" src="https://img.shields.io/github/v/release/thinkingjimmy/PoleStarChat">
-        <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/thinkingjimmy/PoleStarChat/total">
+        <a href="https://github.com/thinkingjimmy/PoleStarChat/releases">
+            <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/thinkingjimmy/PoleStarChat/total">
+        </a>
         <img alt="GitHub" src="https://img.shields.io/github/license/thinkingjimmy/PoleStarChat">
-        <img src="https://dcbadge.vercel.app/api/server/esyCEGhmq9?compact=true&style=flat" />
+        <a href="https://discord.gg/esyCEGhmq9">
+            <img src="https://dcbadge.vercel.app/api/server/esyCEGhmq9?compact=true&style=flat" />
+        </a>
     </h4>
     <h4>
         <a href="https://github.com/thinkingjimmy/PoleStarChat/releases/">💻 Download</a>
