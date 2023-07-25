@@ -23,27 +23,104 @@
     </h4>
 </div>
 
-## 🚀 Key Features
-
 You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=4) , and feel free to leave us feedback our  [Discord server](https://discord.gg/esyCEGhmq9).
 
-**IM App Design:**
-To make the product more approachable, the product's design adopts IM interaction. You can create a chat room (Channel) and talk directly to the AI assistant through the input box like using other IM products. Also, to solve the problem of difficulty in calling prompt templates, you can quickly call prompts through the AT method, like this:
+## 🤖 More than 100 AI Bot
+You can quickly use AI commands in the same way as other IM software, using @, which is as convenient as @ing people in a group chat. We currently support more than 100 AI Bot, covering topics such as education, writing, entertainment, etc. For example, you can use a tarot card master to give you a test of today's fortune, so you don't have to learn and set up a tedious AI Prompt:
 
-<img width="1092" alt="CleanShot 2023-06-24 at 16 02 26@2x" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/3064d947-99be-4d3d-b370-a9602d9f5698">
+<table>
+    <tr>
+        <td align="center">
+            <p> More than 100 AI Bot</p>
+        </td>
+        <td align="center">
+            <p> Tarot Masters Bot</p>
+        </td>
+    <tr>
+        <td>
+            <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/720642fc-29ab-4556-a845-d225ebf75329'/>
+        </td>
+        <td>
+            <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/45ece994-2181-4cec-909b-6a8e36bfa4f4' />
+        </td>
+    </tr>
+</table>
 
-**Support multiple models:**
-Most products support only one model, but we support multiple AI models, such as text-to-image models or open-source models(Plan to support Midjourney and more!):
+Another difference between PoleStar Chat and other similar products is that you can @ multiple bots in a channel, which allows you to have a discussion with multiple virtual bots based on a single question, such as having a discussion about nihilism with people like Plato and Camus. Or ask Blog Writer to write a blog post and ask Japanese Translator to translate it into Japanese:
 
-<img width="1092" alt="CleanShot 2023-06-24 at 16 01 33@2x" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/cfbd2dfb-3486-4989-8f08-527fc966c61a">
+<table>
+    <tr>
+        <td align="center">
+            <p> What is nihilism?</p>
+        </td>
+        <td align="center">
+            <p> Blog Writer</p>
+        </td>
+    <tr>
+        <td>
+            <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/e3283608-d06c-4613-8246-3cbbd0cfd5a8'/>
+        </td>
+        <td>
+            <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/35b209d1-3e81-48f2-8adf-450f828a2684' />
+        </td>
+    </tr>
+</table>
 
-**Support for API calls and external data sources:**
-In addition to supporting multiple models, we plan to support the ability to call external APIs and custom data sources. This means that in the future you can ask the AI to help you make an appointment in Google Calendar by entering text. Or you can use our tools to build your own knowledge base AI Bot.
 
-**Open source:**
+## 🌅 Support Text-to-Image Model
+In addition, we not only support text model, but also support the text-generated diagram model, and in order to reduce your learning cost, the default preset some image styles, without having to enter too long commands to generate a nice effect:
+
+<table>
+    <tr>
+        <td align="center">
+            <p> Line Art Style </p>
+        </td>
+        <td align="center">
+            <p> Anime Style </p>
+        </td>
+    <tr>
+        <td>
+            <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/e1aaef72-f265-4efc-881e-b0d90b63a8c5'/>
+        </td>
+        <td>
+            <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/98f7b805-cdd6-4ab2-a12c-ef16148b6b4f' />
+        </td>
+    </tr>
+</table>
+
+The model we are currently using is Stable Diffusion XL, and you don't need to research how to install the SD model to use the SD outlay as you would with Midjourney.
+
+## 💬 Message support quoting
+Although AI supports contextual chat, we found that sometimes it's very difficult to make AI understand "this" or "the above" commands accurately. That's why in PoleStar Chat, we provide the function of quoting. It allows you to give commands to the AI accurately.
+In addition, you can also use the reference function to link the bots together, for example, you can use the Midjourney prompt generator to generate a prompt, and then reference the command and send it to a Text-to-Image Bot:
+
+
+## 🔖 Supports multiple result displays
+Currently, AI technology is still at an early stage, and the content produced by AI is still not very stable, so it is often necessary for AI to re-output. However, most of the products on the market adopt the way of overwriting or resending to solve the retry. Overwriting will lose the historical data, and the resending will disrupt the context. In order to solve this problem, PoleStar Chat supports displaying multiple solutions in the same bubble for easy comparison:
+
+<table>
+    <tr>
+        <td align="center">
+            <p> Image </p>
+        </td>
+        <td align="center">
+            <p> Text </p>
+        </td>
+    <tr>
+        <td>
+            <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/c46b7440-c1e8-4b78-a171-864726de4de9'/>
+        </td>
+        <td>
+            <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/ef7ed39c-be4c-4f36-8a94-60b520c36a28' />
+        </td>
+    </tr>
+</table>
+
+
+## 🔥 Open source
 As the Chinese old saying goes, many hands make light work. We can't get more people to use AI by our efforts alone, so we decided to introduce the power of the open-source community. We expect to open-source our code (excluding server-side code) around July, and everyone can use our product for secondary development.
 
-**Pay-as-you-go mode:**
+## 💰 Pay-as-you-go mode
 At present, the most impact on the use of AI may be the price. OpenAI membership costs $20 per month, Midjourney costs $30 per month, but for individual use, it may not be feasible to use them at full capacity, and the $50 monthly fee is still expensive for many people. To solve this problem, we will support paying for Tokens and pay-as-you-go model calls in the future. Simply put, you pay for what you use.
 
 
