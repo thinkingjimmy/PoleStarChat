@@ -24,6 +24,7 @@
 You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=4) , and feel free to leave us feedback our  [Discord server](https://discord.gg/esyCEGhmq9).
 
 <h2> 💻 Download</h2>
+
 <div>
     <table>
         <tbody>
