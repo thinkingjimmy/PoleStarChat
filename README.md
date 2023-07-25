@@ -24,7 +24,8 @@
 You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=4) , and feel free to leave us feedback our  [Discord server](https://discord.gg/esyCEGhmq9).
 
 <h2> 💻 Download</h2>
-<table>
+<div>
+    <table>
     <tr>
         <td colspan="2" align="center">
             <b> MacOS </b>
@@ -50,6 +51,8 @@ You can check the development progress of the following features through [PoleSt
         </td>
     </tr>
 </table>
+</div>
+
 
 <h2> 🤖 More than 100 AI Bot </h2>
 <p>You can quickly use AI commands in the same way as other IM software, using @, which is as convenient as @ing people in a group chat. We currently support more than 100 AI Bot, covering topics such as education, writing, entertainment, etc. For example, you can use a tarot card master to give you a test of today's fortune, so you don't have to learn and set up a tedious AI Prompt:</p>
