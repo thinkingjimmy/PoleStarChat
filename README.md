@@ -26,31 +26,33 @@ You can check the development progress of the following features through [PoleSt
 <h2> 💻 Download</h2>
 <div>
     <table>
-    <tr>
-        <td colspan="2" align="center">
-            <b> MacOS </b>
-        </td>
-        <td align="center">
-            <b> Windows </b>
-        </td>
-        <td align="center">
-            <b> Linux </b>
-        </td>
-    <tr>
-        <td>
-            <p> Mac Intel </p>
-        </td>
-        <td>
-            <p> Mac M1/M2 </p>
-        </td>
-        <td>
-            <p> Coming Soon </p>
-        </td>
-        <td>
-            <p> Coming Soon </p>
-        </td>
-    </tr>
-</table>
+        <tbody>
+            <tr>
+            <td colspan="2" align="center">
+                <b> MacOS </b>
+            </td>
+            <td align="center">
+                <b> Windows </b>
+            </td>
+            <td align="center">
+                <b> Linux </b>
+            </td>
+        <tr>
+            <td>
+                <p> Mac Intel </p>
+            </td>
+            <td>
+                <p> Mac M1/M2 </p>
+            </td>
+            <td>
+                <p> Coming Soon </p>
+            </td>
+            <td>
+                <p> Coming Soon </p>
+            </td>
+        </tr>
+        </tbody>
+    </table>
 </div>
 
 
