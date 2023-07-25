@@ -25,7 +25,7 @@
 
 You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=4) , and feel free to leave us feedback our  [Discord server](https://discord.gg/esyCEGhmq9).
 
-## 🤖 More than 100 AI Bot
+<h2> 🤖 More than 100 AI Bot </h2>
 <p>You can quickly use AI commands in the same way as other IM software, using @, which is as convenient as @ing people in a group chat. We currently support more than 100 AI Bot, covering topics such as education, writing, entertainment, etc. For example, you can use a tarot card master to give you a test of today's fortune, so you don't have to learn and set up a tedious AI Prompt:</p>
 
 <table>
@@ -67,7 +67,7 @@ You can check the development progress of the following features through [PoleSt
 </table>
 
 
-## 🌅 Support Text-to-Image Model
+<h2> 🌅 Support Text-to-Image Model</h2>
 <p>In addition, we not only support text model, but also support the text-generated diagram model, and in order to reduce your learning cost, the default preset some image styles, without having to enter too long commands to generate a nice effect:</p>
 
 <table>
@@ -90,7 +90,7 @@ You can check the development progress of the following features through [PoleSt
 
 <p>The model we are currently using is Stable Diffusion XL, and you don't need to research how to install the SD model to use the SD outlay as you would with Midjourney.</p>
 
-## 💬 Message support quoting
+<h2> 💬 Message support quoting</h2>
 Although AI supports contextual chat, we found that sometimes it's very difficult to make AI understand "this" or "the above" commands accurately. That's why in PoleStar Chat, we provide the function of quoting. It allows you to give commands to the AI accurately.
 In addition, you can also use the reference function to link the bots together, for example, you can use the Midjourney prompt generator to generate a prompt, and then reference the command and send it to a Text-to-Image Bot:
 
