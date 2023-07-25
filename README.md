@@ -15,8 +15,6 @@
         </a>
     </h4>
     <h4>
-        <a href="https://github.com/thinkingjimmy/PoleStarChat/releases/">💻 Download</a>
-        <span> · </span>
         <a href="https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Wiki-c9084b5b26d7416bb3972977e0599fd8?pvs=4">Public Wiki</a>
         <span> · </span>
         <a href="https://github.com/thinkingjimmy/PoleStarChat/blob/main/README-CN.md">中文版本</a>
@@ -24,6 +22,34 @@
 </div>
 
 You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=4) , and feel free to leave us feedback our  [Discord server](https://discord.gg/esyCEGhmq9).
+
+<h2> 💻 Download</h2>
+<table>
+    <tr>
+        <td colspan="2" align="center">
+            <b> MacOS </b>
+        </td>
+        <td align="center">
+            <b> Windows </b>
+        </td>
+        <td align="center">
+            <b> Linux </b>
+        </td>
+    <tr>
+        <td>
+            <p> Mac Intel </p>
+        </td>
+        <td>
+            <p> Mac M1/M2 </p>
+        </td>
+        <td>
+            <p> Coming Soon </p>
+        </td>
+        <td>
+            <p> Coming Soon </p>
+        </td>
+    </tr>
+</table>
 
 <h2> 🤖 More than 100 AI Bot </h2>
 <p>You can quickly use AI commands in the same way as other IM software, using @, which is as convenient as @ing people in a group chat. We currently support more than 100 AI Bot, covering topics such as education, writing, entertainment, etc. For example, you can use a tarot card master to give you a test of today's fortune, so you don't have to learn and set up a tedious AI Prompt:</p>
