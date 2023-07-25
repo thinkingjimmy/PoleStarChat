@@ -58,9 +58,7 @@ You can check the development progress of the following features through [PoleSt
 <p>Although AI supports contextual chat, we found that sometimes it's very difficult to make AI understand "this" or "the above" commands accurately. That's why in PoleStar Chat, we provide the function of quoting. It allows you to give commands to the AI accurately.
 In addition, you can also use the reference function to link the bots together, for example, you can use the Midjourney prompt generator to generate a prompt, and then reference the command and send it to a Text-to-Image Bot:</p>
 
-<div align="center">
-    <video src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/75914cb3-6ad7-47c7-a43c-26c7cd3c2f13' />
-</div>
+https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/75914cb3-6ad7-47c7-a43c-26c7cd3c2f13
 
 
 <h2>  🔖 Supports multiple result displays</h2>
