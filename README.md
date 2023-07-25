@@ -95,7 +95,7 @@ Although AI supports contextual chat, we found that sometimes it's very difficul
 In addition, you can also use the reference function to link the bots together, for example, you can use the Midjourney prompt generator to generate a prompt, and then reference the command and send it to a Text-to-Image Bot:
 
 
-## 🔖 Supports multiple result displays
+<h2>  🔖 Supports multiple result displays</h2>
 <p>Currently, AI technology is still at an early stage, and the content produced by AI is still not very stable, so it is often necessary for AI to re-output. However, most of the products on the market adopt the way of overwriting or resending to solve the retry. Overwriting will lose the historical data, and the resending will disrupt the context. In order to solve this problem, PoleStar Chat supports displaying multiple solutions in the same bubble for easy comparison:</p>
 
 <table>
@@ -117,10 +117,10 @@ In addition, you can also use the reference function to link the bots together, 
 </table>
 
 
-## 🔥 Open source
+<h2> 🔥 Open source</h2>
 As the Chinese old saying goes, many hands make light work. We can't get more people to use AI by our efforts alone, so we decided to introduce the power of the open-source community. We expect to open-source our code (excluding server-side code) around July, and everyone can use our product for secondary development.
 
-## 💰 Pay-as-you-go mode
+<h2> 💰 Pay-as-you-go mode</h2>
 At present, the most impact on the use of AI may be the price. OpenAI membership costs $20 per month, Midjourney costs $30 per month, but for individual use, it may not be feasible to use them at full capacity, and the $50 monthly fee is still expensive for many people. To solve this problem, we will support paying for Tokens and pay-as-you-go model calls in the future. Simply put, you pay for what you use.
 
 
