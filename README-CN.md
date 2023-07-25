@@ -1,76 +1,66 @@
 <div align="center">
     <img src="/img/PoleStar.png" width="160px" />
-    <h1>✨ PoleStar Chat</h1>
+    <h1>✨  PoleStar Chat</h1>
     <p>
         <strong>提高人类智能的助手</strong>
     </p>
     <h4>
-        <a href="https://github.com/thinkingjimmy/PoleStarChat/releases/">下载</a>
-        <span> · </span>
         <a href="https://mcousdyt7h.feishu.cn/wiki/wikcn1bcFiMEwq6ucwowFsERjkb">用户手册</a>
         <span> · </span>
         <a href="https://discord.gg/esyCEGhmq9">Discord</a>
     </h4>
 </div>
 
-# 🤔 缘起
-很多人对 AI 的看法类似钢铁侠发明的贾维斯，希望 AI 像一个「个人超级智能助手」，能替代人类做很多事情。
+<h2> 💻 下载 </h2>
 
-但我并不希望未来的 AI 像贾维斯那样，因为它给我的感觉，更像是富人的特权，既高冷又疏远。
+| MacOS  | Windows | Linux |
+| ------------- | ------------- | ------------- |
+| [Mac Intel]() · [Mac M1/M2]() | 敬请期待 | 敬请期待 |
 
-我更希望未来的 AI 能像哆啦A梦一样：
+## 🤖 预设 100 多个 Bot
+你可以像使用其他 IM 软件一样，使用 @ 的方式快速调用 AI 指令，就像是在群聊里 @ 人一样便捷。我们目前支持 100 多个 AI Bot，涵盖教育、写作、娱乐等主题，比如你可以使用塔罗牌大师给你测试今日运势，这样你就不用去学习和设置繁琐的 AI Prompt：
 
-* 首先，它应该是平易近人的，即使像大雄这样的中产家庭也能拥有。
-* 另外，它还能融入你的生活、工作与学习，就像家人、朋友或老师一样的存在，而不是一个性格高冷的工具。
-* 最后，它并不像所谓的智能助手那样以「替代」人类的方式去帮助人类，而是想尽办法通过「提供」工具/方法等方式帮助人类。
+| 预设 100 多个 Bot  | 塔罗牌大师 Bot  |
+| ------------- | ------------- | 
+| <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/720642fc-29ab-4556-a845-d225ebf75329'/> | <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/45ece994-2181-4cec-909b-6a8e36bfa4f4' /> |
 
-如果要让我用几个词总结，可能 **「提高人类智能的助手」** 更匹配我心中理想 AI 的形象。
+另外，PoleStar Chat 跟其他同类产品还有一个区别，你可以在一个 Channel 里 AT 多个 Bot，这样你可以基于一个问题，与多个虚拟 Bot 进行讨论，比如跟柏拉图和加缪等人，来一场关于虚无主义的讨论。亦或者是让 Blog Writer 写一段中文稿，然后让 English Translator 翻译成英文：
+| 什么是虚无主义?  | Blog Writer  |
+| ------------- | ------------- | 
+| <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/e3283608-d06c-4613-8246-3cbbd0cfd5a8'/> | <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/35b209d1-3e81-48f2-8adf-450f828a2684' /> |
 
-不过，理想很丰满，现实很骨感。自 ChatGPT 发布以来，我一直在使用它。但在我使用的过程中，我发现虽然它的能力很强大，但如果你想要发挥出它的 100% 能力，却会面临很多困难。
+## 🌅 支持文生图模型
+另外，我们除了支持文本模型外，还支持文生图模型，并且为了降低各位的学习成本，默认预设了一些图片风格，无需输入太长的命令就能生成不错的效果图：
 
-比如，为了提高 AI 的回答准确率，你需要学习很多技巧。我花了十几个小时学习了下 Prompt Engineering 相关的知识，才能让 AI 返回满意的答案。但紧接着我又遇到了第二个问题，输入 Prompt 信息非常麻烦。需要频繁复制黏贴，效率很低。
+| 线性风格  | 漫画风格  |
+| ------------- | ------------- | 
+| <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/e1aaef72-f265-4efc-881e-b0d90b63a8c5'/> | <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/98f7b805-cdd6-4ab2-a12c-ef16148b6b4f' /> |
 
-最后，你估计也会和我一样，遇到付费的问题。付费困难、容易被 Ban 先不说，单就每月的订阅费用，对于很多人来说还是太贵了。
+目前我们使用的模型是 Stable Diffusion XL，你无需研究如何安装 SD 模型，即可像使用 Midjourney 那样使用 SD 出图。
 
-既然产品不行，那就尝试找找市面上有没有好的解决方案。
+## 💬 消息支持引用
+虽然 AI 支持上下文聊天功能，但我们发现有的时候，要想准确地让 AI 理解「这个」或「上述」这些指令非常难。所以在 PoleStar Chat 里我们提供了引用的功能。让你能准确地向 AI 下达指令。
 
-很可惜，我试用了市面上的各种工具，有不少做得都很不错，但没有一个能满足我所有的需求。
-
-所以我们决定自己开发一个。
-
-# 😎 差异
-AI 的发展的还处于非常早期的阶段，很多技术还不太完善。要想达到这样的目标，还有很长的一段路要走。但这并不代表我们没法走出第一步 —— **让 AI 更加平易近人**：
-
-1. 降低 AI 使用门槛：
-   1. 提升效率：沿用用户熟悉的产品设计，提升使用 Prompt 的效率。
-   2. 降低费用：支持 Pay as you go 付费模式，Token 用多少付多少，从而降低使用成本。
-   3. 降低模型调用门槛：你可以在我们的应用里，同时调用多个模型，比如同时调用 GPT-3 和 Stable Diffusion，未来我们计划支持 Midjourney。
-2. 提升 AI 回答的准确性：
-   1. 支持调用外部 API：因为模型的特性，它无法使用最新的数据进行回答，比如「推荐最新的电影」等，未来我们会支持通过调用外部 API 的方式，让 AI 能使用最新数据进行回答。
-   2. 自定义回答数据源：在某些垂直领域，AI 的回答常常会胡乱回答，我们后续会支持自定义数据库功能，让 AI 能基于知识库里的内容进行回答，提升 AI 回答的准确性。
-
-# 🚀 功能
-你可以通过 🗺️ PoleStar Chat - Public Roadmap 查看以下功能的开发进度，也欢迎加入我们的 Discord 服务器，并给予我们反馈。
-
-**沿用 IM 的使用习惯**
-
-为了让产品更平易近人，产品的设计沿用 IM 的交互，你可以创建聊天室（Channel），然后像使用其他 IM 产品那样，通过输入框直接跟 AI 助手对话。另外，为了解决 prompt 模版调用困难的问题，你可以通过 AT 的方式，快速调用 Prompt，比如像这样：
-<img width="1153" alt="image" src="https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/d4a05277-6843-46d3-abc7-726f4c56e258">
-
-**支持多种模型**
-
-现在市面上的工具，除了调用 prompt 比较困难外，第二个问题就是仅支持单个模型，或者仅支持 LLM 模型。为了降低模型的使用门槛，我们会支持调用多种模型。比如，文本生成图片模型，亦或者是垂直领域的开源模型。在新的版本中，你可以在 IM 里通过 AT Text2Image Bot 的方式，让 AI 通过文字生成图片：![image](https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/3570dafe-9ebd-41de-a3aa-0d5dea08c5c0)
+另外，你还可以使用引用的功能，将 Bot 连起来用，比如可以用 Midjourney 指令生成器生成指令，然后引用该指令，并 AT 文生图 Bot。比如像这样：
 
 
-**支持调用 API 及外部数据源**
+https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/bd9983e0-4ea1-4a45-98ad-bcafe3768160
 
-除了支持多种模型外，我们后续计划支持调用外部 API 的能力，及自定义数据源。就意味着，未来你可以通过输入文本的方式让 AI 帮你在 Google 日历里预约一个日程。亦或者你可以使用我们的工具，搭建专属自己的知识库 AI Bot。
+## 🔖 结果支持 Retry，并以 tab 的方式显示在一个消息气泡内
 
-**开源代码**
+目前 AI 技术还处于早期阶段， AI 产出的内容还不太稳定，常常需要让 AI 重新输出。但现在市面上的产品，大多数采用的是覆盖或重新发送的方式解决 Retry 需求，前者会丢失历史数据，后者则会打乱上下文。
+
+为了解决这个问题，PoleStar Chat 支持在同一个气泡内显示多条解决，方便比对：
+| Image  | Text  |
+| ------------- | ------------- | 
+| <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/c46b7440-c1e8-4b78-a171-864726de4de9'/> | <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/ef7ed39c-be4c-4f36-8a94-60b520c36a28' /> |
+
+
+## 🔥 开源代码
 
 俗话说，众人拾柴火焰高。我们深知要想让更多人使用上 AI ，个人的力量是远远不够的，所以我们决定引入开源社区的力量。我们预计会在 7 月左右开源我们的代码（不包含服务端代码），届时，大家可以使用我们产品进行二次开发。
 
-**支持 Pay as you go 模式**
+## 💰 支持 Pay as you go 模式
 
 最后一个，比较影响各位使用的，可能就是价格了。OpenAI 会员每月 20 美元，Midjourney 每月 30 美元，但个人使用的话，可能根本用不完，每个月 50 美元的费用对于很多人来说还是比较贵的。
 为了解决这个问题，后续我们会支持付费购买 Token ，并且会以 Pay as you go 的方式支付模型调用费用。简单说来，就是用多少付多少，从而降低各位的使用成本。
