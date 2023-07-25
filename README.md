@@ -66,6 +66,7 @@ You can check the development progress of the following features through [PoleSt
     </tr>
 </table>
 
+</br>
 
 <h2> 🌅 Support Text-to-Image Model</h2>
 <p>In addition, we not only support text model, but also support the text-generated diagram model, and in order to reduce your learning cost, the default preset some image styles, without having to enter too long commands to generate a nice effect:</p>
