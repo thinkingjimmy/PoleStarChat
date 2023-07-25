@@ -23,38 +23,11 @@
 
 You can check the development progress of the following features through [PoleStar Chat - Public Roadmap](https://statuesque-goal-eef.notion.site/PoleStar-Chat-Public-Roadmap-d4d9a483564f409ba16ff22792c806f9?pvs=4) , and feel free to leave us feedback our  [Discord server](https://discord.gg/esyCEGhmq9).
 
-<h2> 💻 Download</h2>
+<h2> 💻 Download </h2>
 
-<div>
-    <table>
-        <tbody>
-            <tr>
-            <td colspan="2" align="center">
-                <b> MacOS </b>
-            </td>
-            <td align="center">
-                <b> Windows </b>
-            </td>
-            <td align="center">
-                <b> Linux </b>
-            </td>
-        <tr>
-            <td>
-                <p> Mac Intel </p>
-            </td>
-            <td>
-                <p> Mac M1/M2 </p>
-            </td>
-            <td>
-                <p> Coming Soon </p>
-            </td>
-            <td>
-                <p> Coming Soon </p>
-            </td>
-        </tr>
-        </tbody>
-    </table>
-</div>
+| MacOS  | Windows | Linux |
+| ------------- | ------------- | ------------- |
+| [Mac Intel]() · [Mac M1/M2]() | Coming Soon | Coming Soon |
 
 
 <h2> 🤖 More than 100 AI Bot </h2>
