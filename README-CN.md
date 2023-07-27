@@ -50,7 +50,7 @@ https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/bd9983e0-4ea1-4a45
 
 目前 AI 技术还处于早期阶段， AI 产出的内容还不太稳定，常常需要让 AI 重新输出。但现在市面上的产品，大多数采用的是覆盖或重新发送的方式解决 Retry 需求，前者会丢失历史数据，后者则会打乱上下文。
 
-为了解决这个问题，PoleStar Chat 支持在同一个气泡内显示多条解决，方便比对：
+为了解决这个问题，PoleStar Chat 支持在同一个气泡内显示多条结果，方便比对：
 | Image  | Text  |
 | ------------- | ------------- | 
 | <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/c46b7440-c1e8-4b78-a171-864726de4de9'/> | <img width="600" src='https://github.com/thinkingjimmy/PoleStarChat/assets/37492595/ef7ed39c-be4c-4f36-8a94-60b520c36a28' /> |
