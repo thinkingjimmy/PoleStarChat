@@ -27,7 +27,7 @@ You can check the development progress of the following features through [PoleSt
 
 | MacOS  | Windows | Linux |
 | ------------- | ------------- | ------------- |
-| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.0.8/PoleStarChat_x86_v0.0.8_en.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.0.8/PoleStarChat_arm64_v.0.0.8_en.dmg) | Coming Soon | Coming Soon |
+| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.0.9/PoleStarChat_x86_v0.0.9_en.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.0.9/PoleStarChat_arm64_v.0.0.9_en.dmg) | Coming Soon | Coming Soon |
 
 
 <h2> 🤖 More than 100 AI Bot </h2>
