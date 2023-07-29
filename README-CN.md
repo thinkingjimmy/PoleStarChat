@@ -15,7 +15,7 @@
 
 | MacOS  | Windows | Linux |
 | ------------- | ------------- | ------------- |
-| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.0.8/PoleStarChat_x86_v0.0.8_zh_CN.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.0.8/PoleStarChat_arm64_v.0.0.8_zh_CN.dmg) | 敬请期待 | 敬请期待 |
+| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.0.9/PoleStarChat_x86_v0.0.9_zh_CN.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.0.9/PoleStarChat_arm64_v.0.0.9_zh_CN.dmg) | 敬请期待 | 敬请期待 |
 
 ## 🤖 预设 100 多个 Bot
 你可以像使用其他 IM 软件一样，使用 @ 的方式快速调用 AI 指令，就像是在群聊里 @ 人一样便捷。我们目前支持 100 多个 AI Bot，涵盖教育、写作、娱乐等主题，比如你可以使用塔罗牌大师给你测试今日运势，这样你就不用去学习和设置繁琐的 AI Prompt：
