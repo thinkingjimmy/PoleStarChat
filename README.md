@@ -27,8 +27,8 @@ You can check the development progress of the following features through [PoleSt
 
 | Language | MacOS  | Windows | Linux |
 | -------------| ------------- | ------------- | ------------- |
-| English| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.0/PoleStarChat_arm64_v.0.1.1_en.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.0/PoleStarChat_arm64_v.0.1.1_en.dmg) | [Get Setup.zip](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.0/PoleStarChat_Setup_v0.1.1_en.zip) | Coming Soon |
-| 中文| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.0/PoleStarChat_x86_v0.1.1_zh_CN.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.0/PoleStarChat_arm64_v.0.1.1_zh_CN.dmg) | [下载 Setup.zip](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.0/PoleStarChat_Setup_v0.1.1_zh_CN.zip) | 敬请期待 |
+| English| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.1/PoleStarChat_arm64_v.0.1.1_en.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.1/PoleStarChat_arm64_v.0.1.1_en.dmg) | [Get Setup.zip](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.1/PoleStarChat_Setup_v0.1.1_en.zip) | Coming Soon |
+| 中文| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.1/PoleStarChat_x86_v0.1.1_zh_CN.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.1/PoleStarChat_arm64_v.0.1.1_zh_CN.dmg) | [下载 Setup.zip](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.1/PoleStarChat_Setup_v0.1.1_zh_CN.zip) | 敬请期待 |
 
 
 <h2> 🤖 More than 100 AI Bot </h2>
