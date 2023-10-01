@@ -15,8 +15,8 @@
 
 | Language | MacOS  | Windows | Linux |
 | -------------| ------------- | ------------- | ------------- |
-| English| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.2/PoleStarChat_x86_v0.1.2_en.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.2/PoleStarChat_arm64_v.0.1.2_en.dmg) | [Get Setup.zip](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.2/PoleStarChat_win_v0.1.2_en.zip) | Coming Soon |
-| 中文| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.2/PoleStarChat_x86_v0.1.2_zh_CN.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.2/PoleStarChat_arm64_v.0.1.2_zh_CN.dmg) | [下载 Setup.zip](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.2/PoleStarChat_win_v0.1.2_zh_CN.zip) | 敬请期待 |
+| English| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.3/PoleStarChat_x86_v0.1.3_en.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.3/PoleStarChat_arm64_v.0.1.3_en.dmg) | [Get Setup.zip](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.3/PoleStarChat_win_v0.1.3_en.zip) | Coming Soon |
+| 中文| [Mac Intel](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.3/PoleStarChat_x86_v0.1.3_zh_CN.dmg) · [Mac M1/M2](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.3/PoleStarChat_arm64_v.0.1.3_zh_CN.dmg) | [下载 Setup.zip](https://github.com/thinkingjimmy/PoleStarChat/releases/download/V0.1.3/PoleStarChat_win_v0.1.3_zh_CN.zip) | 敬请期待 |
 
 ## 🤖 预设 100 多个 Bot
 你可以像使用其他 IM 软件一样，使用 @ 的方式快速调用 AI 指令，就像是在群聊里 @ 人一样便捷。我们目前支持 100 多个 AI Bot，涵盖教育、写作、娱乐等主题，比如你可以使用塔罗牌大师给你测试今日运势，这样你就不用去学习和设置繁琐的 AI Prompt：
